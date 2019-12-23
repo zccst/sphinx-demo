@@ -10,6 +10,9 @@ Welcome to demo's documentation!  -V0.2 new
    :maxdepth: 2
    :caption: Contents:
 
+   test/rst1.rst
+   test/md2.md
+   supportmd.md
 
 
 Indices and tables
