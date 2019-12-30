@@ -51,9 +51,11 @@ extensions = [
     "sphinx_rtd_theme",
 ]
 
+# 添加模板路径
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+# 源文件后缀类型
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
@@ -63,6 +65,7 @@ source_parsers = {
 source_suffix = ['.rst', '.md']
 # source_suffix = '.rst'
 
+# 根入口文件
 # The master toctree document.
 master_doc = 'index'
 
@@ -77,17 +80,20 @@ language = None
 locale_dirs = ['locale/']
 gettext_compact = False
 
-
+# 排除的文件及文件夹
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+# pygments_style = None
+pygments_style = 'sphinx'
 
 
 # -- Options for HTML output -------------------------------------------------
+
+
 import sphinx_rtd_theme
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
@@ -122,9 +128,32 @@ html_logo = 'img/dash_logo_white.png'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
+html_static_path = []
+
+
+# Override to allow text wrap in tables
+# Details: https://rackerlabs.github.io/docs-rackspace/tools/rtd-tables.html
+#html_context = {
+#    'css_files': [
+#        '_static/theme_overrides.css',  # override wide tables in RTD theme
+#        ],
+#     }
 
 # sidebar模板
+# Custom sidebar templates, must be a dictionary that maps document names
+# to template names.
+#
+# This is required for the alabaster theme
+# refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
+html_sidebars = {
+    '**': [
+        'relations.html',  # needs 'show_related': True theme option to display
+        'searchbox.html',
+    ]
+}
+
+
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
