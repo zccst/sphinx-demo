@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, demo
+# This file is distributed under the same license as the demo package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: demo \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-31 17:34+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: ../../source/test/rst1.rst:1
+msgid "Introduction to the Dash cryptocurrency and links to further reading"
+msgstr "介绍达士币"
+
+#: ../../source/test/rst1.rst:1
+msgid ""
+"dash, cryptocurrency, videos, documentation, roadmap, governance, "
+"funding, payments, whitepaper, roadmap"
+msgstr "达士币，加密货币，视频，文档，路线图，治理，基金，白皮书等"
+
+#: ../../source/test/rst1.rst:9
+msgid "What is Dash?"
+msgstr "达士是什么"
+
+#: ../../source/test/rst1.rst:14
+msgid "Dash Videos"
+msgstr "达士视频"
+
+#: ../../source/test/rst1.rst:17
+msgid "Dash School"
+msgstr "达士学校"
+
+#: ../../source/test/rst1.rst:19
+msgid ""
+"Dash School is a six-part video series produced by Amanda B. Johnson. It "
+"explains Dash from a beginner's level up to descriptions of the more "
+"advanced features."
+msgstr "达士学校的视频是xx，更多视频请参考"
+
+#: ../../source/test/rst1.rst:31
+msgid "Dash 101"
+msgstr "达士101达士1010"
+
+#: ../../source/test/rst1.rst:33
+msgid ""
+"Dash 101 is an eight-part video series produced by Aaron Koenig. It "
+"covers unique features and functions only available on the Dash network, "
+"and is available in `English "
+"<https://www.youtube.com/watch?v=DzH7cMbZQHI&list=PLiFMZOlhgsYIDP2V2XsuTFZu1C1sV5ohr>`__,"
+" `French "
+"<https://www.youtube.com/watch?v=CMGXChAR9f4&list=PLiFMZOlhgsYJvvpWN9xGSxwIVejOWVXKZ>`__,"
+" `German "
+"<https://www.youtube.com/watch?v=0YyDGu17IE4&list=PLiFMZOlhgsYKrbanA3ng7oh2aNRh7D98V>`__,"
+" `Spanish "
+"<https://www.youtube.com/watch?v=AwqrG_K8nzw&list=PLiFMZOlhgsYK8P_NViNEJKCzADzdT8k0R>`__"
+" and `Russian "
+"<https://www.youtube.com/watch?v=cAPgPUMVwzo&list=PLiFMZOlhgsYKBYORZIReix5hejKj08nUk>`__."
+msgstr ""
+
+#: ../../source/test/rst1.rst:52
+msgid "Whitepaper"
+msgstr "白皮书"
+
+#: ../../source/test/rst1.rst:54
+msgid ""
+"The Dash Whitepaper describes the unique value proposition and key "
+"innovations in Dash from an academic and theoretical perspective. It is a"
+" living document maintained as a GitHub wiki, receiving ongoing updates "
+"and frequent community translations as new features are implemented. "
+"Various other whitepapers describing particular features in additional "
+"detail and (for historical reasons) the original whitepaper are available"
+" for download as PDF files."
+msgstr ""
+
+#: ../../source/test/rst1.rst:62
+msgid ""
+"`Latest whitepaper and official translations "
+"<https://github.com/dashpay/dash/wiki/Whitepaper>`_"
+msgstr ""
+
+#: ../../source/test/rst1.rst:63
+msgid ""
+"`PDF whitepaper "
+"<https://github.com/dashpay/docs/raw/master/binary/Dash%20Whitepaper%20-%20V2.pdf>`_"
+msgstr ""
+
+#: ../../source/test/rst1.rst:64
+msgid ""
+"`Original Darkcoin whitepaper (PDF) "
+"<https://github.com/dashpay/docs/raw/master/binary/Dash%20Whitepaper%20-%20Darkcoin.pdf>`_"
+msgstr ""
+
+#: ../../source/test/rst1.rst:65
+#, python-format
+msgid ""
+"`InstantSend whitepaper (PDF) "
+"<https://github.com/dashpay/docs/raw/master/binary/Dash%20Whitepaper%20-%20Transaction%20Locking%20and%20Masternode%20Consensus.pdf>`_"
+msgstr ""
+
+#: ../../source/test/rst1.rst:68
+msgid "Roadmap"
+msgstr "路线图路线图"
+
+#: ../../source/test/rst1.rst:70
+msgid ""
+"The Dash Roadmap sets out delivery milestones for future releases of Dash"
+" and includes specific technical details describing how the development "
+"team plans to realise each challenge."
+msgstr ""
+
+#: ../../source/test/rst1.rst:74
+msgid "`Dash Roadmap <https://www.dash.org/roadmap>`_"
+msgstr ""
+

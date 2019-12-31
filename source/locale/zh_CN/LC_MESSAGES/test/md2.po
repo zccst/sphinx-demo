@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: demo \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-24 11:30+0800\n"
+"POT-Creation-Date: 2019-12-31 17:34+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,12 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
 
-#: ../../source/locale/zh_CN/LC_MESSAGES/test/md2.md:1
+#: ../../source/test/md2.md:1
 msgid "第二个md文件"
-msgstr ""
+msgstr "第二个md文件-中文二"
 
-#: ../../source/locale/zh_CN/LC_MESSAGES/test/md2.md:2
-msgid "这里是中文"
-msgstr ""
-msgid "Hello World!"
-msgstr "你好，世界！今天是圣诞季"

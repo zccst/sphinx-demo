@@ -18,7 +18,7 @@
 from recommonmark.parser import CommonMarkParser
 
 # -- Project information -----------------------------------------------------
-
+# 项目信息，不重要
 project = u'demo'
 copyright = u'2019, demo'
 author = u'demo'

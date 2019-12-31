@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: demo \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-24 11:30+0800\n"
+"POT-Creation-Date: 2019-12-31 17:34+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.7.0\n"
 
-#: ../../source/locale/zh_CN/LC_MESSAGES/supportmd.md:1
-msgid "第一个md文件"
+#: ../../source/index.rst:7
+msgid "Welcome to demo's documentation!  -V0.2 new"
+msgstr "欢迎欢迎，来到demo文档，0.2新版本"
+
+#: ../../source/index.rst:9
+msgid "Contents:"
+msgstr "内容"
+
+#: ../../source/index.rst:19
+msgid "Indices and tables"
+msgstr "目录"
+
+#: ../../source/index.rst:21
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:22
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:23
+msgid ":ref:`search`"
 msgstr ""
 
