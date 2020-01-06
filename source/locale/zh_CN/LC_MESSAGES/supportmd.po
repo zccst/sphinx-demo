@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: demo \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-31 17:34+0800\n"
+"POT-Creation-Date: 2020-01-06 14:37+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,4 +20,69 @@ msgstr ""
 #: ../../source/supportmd.md:1
 msgid "第一个md文件"
 msgstr "第一个md文件-中文一"
+
+#: ../../source/supportmd.md:6
+msgid ""
+"How to use Bitcoin<br />Inform yourself<br />Bitcoin is different than "
+"what you know and use every day. Before you start using Bitcoin, there "
+"are a few things that you need to know in order to use it securely and "
+"avoid common pitfalls."
+msgstr "如何使用BTC"
+
+#: ../../source/supportmd.md:10
+msgid ""
+"Choose your wallet<br />Free bitcoin wallets are available for all major "
+"operating systems and devices to serve a variety of your needs. For "
+"example, you can install an app on your mobile device for everyday use or"
+" you can have a wallet only for online payments on your computer. In any "
+"case, choosing a wallet is easy and can be done in minutes."
+msgstr "创建钱包"
+
+#: ../../source/supportmd.md:13
+msgid ""
+"Choose your wallet<br />Get Bitcoin<br />You can get Bitcoin by accepting"
+" it as a payment for goods and services. There are also several ways you "
+"can buy Bitcoin."
+msgstr "选择钱包"
+
+#: ../../source/supportmd.md:17
+msgid ""
+"Buy Bitcoin<br />Spend Bitcoin<br />There are a growing number of "
+"services and merchants accepting Bitcoin all over the world. Use Bitcoin "
+"to pay them and rate your experience to help them gain more visibility."
+msgstr "购买比特币"
+
+#: ../../source/supportmd.md:21
+msgid ""
+"Find merchants and products<br />How to accept Bitcoin<br />Inform "
+"yourself<br />Bitcoin does not require merchants to change their habits. "
+"However, Bitcoin is different than what you know and use every day. "
+"Before you start using Bitcoin, there are a few things that you need to "
+"know in order to use it securely and avoid common pitfalls."
+msgstr "通知"
+
+#: ../../source/supportmd.md:26
+msgid ""
+"Processing payments<br />You can process payments and invoices by "
+"yourself or you can use merchant services and deposit money in your local"
+" currency or bitcoins. Most point of sales businesses use a tablet or a "
+"mobile phone to let customers pay with their mobile phones."
+msgstr "处理支付"
+
+#: ../../source/supportmd.md:29
+msgid ""
+"Find merchant services<br />Accounting and taxes<br />Merchants often "
+"deposit and display prices in their local currency. In other cases, "
+"Bitcoin works similarly to a foreign currency. To get appropriate "
+"guidance regarding tax compliance for your own jurisdiction, you should "
+"contact a qualified accountant."
+msgstr "应该联系陈东升承兑商"
+
+#: ../../source/supportmd.md:33
+msgid ""
+"Gaining visibility<br />There is a growing number of users searching for "
+"ways to spend their bitcoins. You can submit your business in online "
+"directories to help them easily find you. You can also display the "
+"Bitcoin logo on your website or your brick and mortar business."
+msgstr "这里有很多人"
 
